@@ -29,7 +29,7 @@ public class MinMaxCalculation {
     }
 
     public static void main(String[] args) {
-        int[] numbers = { 10, 20, 3, 5, 8, 7, 100, 0, -2, 25 };
+        int[] numbers = { 12, 13, 3, 8, 9, 7, 19, 02, -12, 251 };
 
         System.out.println("Numbers: " + Arrays.toString(numbers));
         System.out.println("Minimum: " + findMin(numbers));
